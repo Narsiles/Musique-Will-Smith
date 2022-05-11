@@ -3,8 +3,6 @@
 #include <string>
 #include <map>
 
-using std::ifstream;
-using std::string;
 using namespace std;
 
 int main()
